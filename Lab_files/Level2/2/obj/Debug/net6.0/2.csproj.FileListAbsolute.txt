@@ -1,0 +1,17 @@
+/Users/avenir/vscode/C#/6th_Lab/Lab_files/Level2/2/obj/Debug/net6.0/2.csproj.AssemblyReference.cache
+/Users/avenir/vscode/C#/6th_Lab/Lab_files/Level2/2/obj/Debug/net6.0/2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/avenir/vscode/C#/6th_Lab/Lab_files/Level2/2/obj/Debug/net6.0/2.AssemblyInfoInputs.cache
+/Users/avenir/vscode/C#/6th_Lab/Lab_files/Level2/2/obj/Debug/net6.0/2.AssemblyInfo.cs
+/Users/avenir/vscode/C#/6th_Lab/Lab_files/Level2/2/obj/Debug/net6.0/2.csproj.CoreCompileInputs.cache
+/Users/avenir/vscode/C#/6th_Lab/Lab_files/Level2/2/bin/Debug/net6.0/2
+/Users/avenir/vscode/C#/6th_Lab/Lab_files/Level2/2/bin/Debug/net6.0/2.deps.json
+/Users/avenir/vscode/C#/6th_Lab/Lab_files/Level2/2/bin/Debug/net6.0/2.runtimeconfig.json
+/Users/avenir/vscode/C#/6th_Lab/Lab_files/Level2/2/bin/Debug/net6.0/2.dll
+/Users/avenir/vscode/C#/6th_Lab/Lab_files/Level2/2/bin/Debug/net6.0/2.pdb
+/Users/avenir/vscode/C#/6th_Lab/Lab_files/Level2/2/bin/Debug/net6.0/Newtonsoft.Json.dll
+/Users/avenir/vscode/C#/6th_Lab/Lab_files/Level2/2/obj/Debug/net6.0/2.csproj.CopyComplete
+/Users/avenir/vscode/C#/6th_Lab/Lab_files/Level2/2/obj/Debug/net6.0/2.dll
+/Users/avenir/vscode/C#/6th_Lab/Lab_files/Level2/2/obj/Debug/net6.0/refint/2.dll
+/Users/avenir/vscode/C#/6th_Lab/Lab_files/Level2/2/obj/Debug/net6.0/2.pdb
+/Users/avenir/vscode/C#/6th_Lab/Lab_files/Level2/2/obj/Debug/net6.0/2.genruntimeconfig.cache
+/Users/avenir/vscode/C#/6th_Lab/Lab_files/Level2/2/obj/Debug/net6.0/ref/2.dll

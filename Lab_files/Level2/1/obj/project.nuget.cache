@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "RzOxQamrQJXS9Fz2Ag/EgywmoGbQ5bVb+6c3oLMmPqR8sxw9F/fTDQtJBeJ8tE82gSEAMxtCZv85bc1GJ9+E9A==",
+  "success": true,
+  "projectFilePath": "/Users/avenir/vscode/C#/6th_Lab/Lab_files/Level2/1/1.csproj",
+  "expectedPackageFiles": [
+    "/Users/avenir/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
