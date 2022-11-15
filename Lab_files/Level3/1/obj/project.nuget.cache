@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "+Two7HgoyQ+/PBqoX3XWczA6e0I/n2J466PmGhV0b6LQkkWrAyV4lENy54SEhlxbFkcubFrcgFGtZJTLgGlYuQ==",
+  "dgSpecHash": "0DQaDupekY4ak7cuXZqlhxv7h6Rh6CyKHaWUYpyP/WAw8SYZdl0kd9ojTuy40Pst9s0UUGGc50dw4SsFPBewvA==",
   "success": true,
   "projectFilePath": "/Users/avenir/vscode/C#/6th_Lab/Lab_files/Level3/1/1.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/avenir/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
   "logs": []
 }

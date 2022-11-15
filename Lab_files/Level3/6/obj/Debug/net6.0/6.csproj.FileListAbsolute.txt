@@ -1,0 +1,15 @@
+/Users/avenir/vscode/C#/6th_Lab/Lab_files/Level3/6/bin/Debug/net6.0/6
+/Users/avenir/vscode/C#/6th_Lab/Lab_files/Level3/6/bin/Debug/net6.0/6.deps.json
+/Users/avenir/vscode/C#/6th_Lab/Lab_files/Level3/6/bin/Debug/net6.0/6.runtimeconfig.json
+/Users/avenir/vscode/C#/6th_Lab/Lab_files/Level3/6/bin/Debug/net6.0/6.dll
+/Users/avenir/vscode/C#/6th_Lab/Lab_files/Level3/6/bin/Debug/net6.0/6.pdb
+/Users/avenir/vscode/C#/6th_Lab/Lab_files/Level3/6/obj/Debug/net6.0/6.csproj.AssemblyReference.cache
+/Users/avenir/vscode/C#/6th_Lab/Lab_files/Level3/6/obj/Debug/net6.0/6.GeneratedMSBuildEditorConfig.editorconfig
+/Users/avenir/vscode/C#/6th_Lab/Lab_files/Level3/6/obj/Debug/net6.0/6.AssemblyInfoInputs.cache
+/Users/avenir/vscode/C#/6th_Lab/Lab_files/Level3/6/obj/Debug/net6.0/6.AssemblyInfo.cs
+/Users/avenir/vscode/C#/6th_Lab/Lab_files/Level3/6/obj/Debug/net6.0/6.csproj.CoreCompileInputs.cache
+/Users/avenir/vscode/C#/6th_Lab/Lab_files/Level3/6/obj/Debug/net6.0/6.dll
+/Users/avenir/vscode/C#/6th_Lab/Lab_files/Level3/6/obj/Debug/net6.0/refint/6.dll
+/Users/avenir/vscode/C#/6th_Lab/Lab_files/Level3/6/obj/Debug/net6.0/6.pdb
+/Users/avenir/vscode/C#/6th_Lab/Lab_files/Level3/6/obj/Debug/net6.0/6.genruntimeconfig.cache
+/Users/avenir/vscode/C#/6th_Lab/Lab_files/Level3/6/obj/Debug/net6.0/ref/6.dll

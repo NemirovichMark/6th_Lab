@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/avenir/vscode/C#/6th_Lab/Lab_files/Level3/1/1.csproj": {}
+    "/Users/avenir/vscode/C#/6th_Lab/Lab_files/Level3/4/4.csproj": {}
   },
   "projects": {
-    "/Users/avenir/vscode/C#/6th_Lab/Lab_files/Level3/1/1.csproj": {
+    "/Users/avenir/vscode/C#/6th_Lab/Lab_files/Level3/4/4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/avenir/vscode/C#/6th_Lab/Lab_files/Level3/1/1.csproj",
-        "projectName": "1",
-        "projectPath": "/Users/avenir/vscode/C#/6th_Lab/Lab_files/Level3/1/1.csproj",
+        "projectUniqueName": "/Users/avenir/vscode/C#/6th_Lab/Lab_files/Level3/4/4.csproj",
+        "projectName": "4",
+        "projectPath": "/Users/avenir/vscode/C#/6th_Lab/Lab_files/Level3/4/4.csproj",
         "packagesPath": "/Users/avenir/.nuget/packages/",
-        "outputPath": "/Users/avenir/vscode/C#/6th_Lab/Lab_files/Level3/1/obj/",
+        "outputPath": "/Users/avenir/vscode/C#/6th_Lab/Lab_files/Level3/4/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/avenir/.nuget/NuGet/NuGet.Config"
